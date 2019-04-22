@@ -2,8 +2,18 @@
 website : https://dammydmh.com/
 
 Hệ sinh thái : 
+
+Vimeo 
 https://vimeo.com/dammydmh
+
+blogger
 https://dammydmh.blogspot.com
+
+sourceforge
 https://sourceforge.net/u/dammydmh/profile/
+
+disqus
 https://disqus.com/by/dammydmh/
+
+gravatar
 https://en.gravatar.com/dammyhaycom
